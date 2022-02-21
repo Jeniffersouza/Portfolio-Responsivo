@@ -1,13 +1,12 @@
 # 🔥 Site - Portfólio responsivo
-## [Watch it on youtube](https://youtu.be/oy8dSsK57Ps)
-### 🔥 Responsive Portfolio Website
+## [Assista no Youtube](https://youtu.be/oy8dSsK57Ps)
+### 🔥 Site Portfólio responsivo
+- Site de portfólio responsivo usando HTML CSS e JavaScript
+- Rolagem suave em cada seção.
+- Inclui um modo escuro e claro.
+- Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
+- Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
-- Responsive Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+💙 Inscreva-se no canal para ver mais vídeos como este. [CodeGirls](https://www.youtube.com/)
 
 ![preview img](/preview.png)
