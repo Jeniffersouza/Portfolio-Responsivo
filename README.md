@@ -1,5 +1,5 @@
 # 🔥 Site - Portfólio responsivo
-## [Assista no Youtube](https://youtu.be/oy8dSsK57Ps)
+## [Assista no Youtube](https://youtu.be/pRvO-xsNE20)
 ### 🔥 Site Portfólio responsivo
 - Site de portfólio responsivo usando HTML CSS e JavaScript
 - Rolagem suave em cada seção.
